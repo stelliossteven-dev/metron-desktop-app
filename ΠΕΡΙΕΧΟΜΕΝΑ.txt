@@ -1,0 +1,9 @@
+metron-desktop-app  -  ΠΕΡΙΕΧΟΜΕΝΑ
+==================================
+
+Δημόσιο σημείο λήψης του Metron Diet - Desktop (Windows). GitHub: stelliossteven-dev/metron-desktop-app (δημόσιο).
+
+README.md   Οδηγίες για τον τελικό χρήστη
+
+Θα περιέχει ΜΟΝΟ: installer (.exe), latest.json (έκδοση, url, sha256, μέγεθος, ημερομηνία) και README.md.
+Ποτέ κώδικα, κλειδιά ή προσωπικά δεδομένα. Ανεβαίνει μόνο αρχείο που πέρασε τις δοκιμές, με έλεγχο sha256.
