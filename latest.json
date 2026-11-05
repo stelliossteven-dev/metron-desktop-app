@@ -1,7 +1,7 @@
 {
-  "version": "v0.7.0",
-  "url": "https://github.com/stelliossteven-dev/metron-desktop-app/releases/download/v0.7.0/Metron-Diet-Desktop-Setup-0.7.0.exe",
-  "sha256": "51e13de3087686b7a0861018696103220d3a757bf13208a854bef4e15848343e",
-  "size": 115972243,
+  "version": "v0.7.1",
+  "url": "https://github.com/stelliossteven-dev/metron-desktop-app/releases/download/v0.7.1/Metron-Diet-Desktop-Setup-0.7.1.exe",
+  "sha256": "463a3c11cf0ee26ae05c6e9efa66501705fb23f40f969a0c654e4d2915c2540b",
+  "size": 115972620,
   "date": "2026-11-05"
 }
